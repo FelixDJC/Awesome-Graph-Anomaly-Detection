@@ -14,7 +14,7 @@ We are looking forward for other participants to share their papers and codes. I
 - [Benchmark Datasets](#jump3)
   - [Injected Datasets](#jump31)
   - [Real-world Anomaly Datasets](#jump32)
-- [Other Related Awesome Repository](#jump5)
+- [Other Related Awesome Repository](#jump4)
 
 ---
 
