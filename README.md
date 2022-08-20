@@ -48,6 +48,11 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 ##### <span>Filter</span>
 1. IJCAI 2022: Can Abnormality be Detected by Graph Neural Networks? [[Paper]](http://yangy.org/works/gnn/IJCAI22_Abnormality.pdf) [[code]](https://github.com/zjunet/AMNet)
 2. ICML 2022: Rethinking Graph Neural Networks for Anomaly Detection [[Paper]](https://arxiv.org/pdf/2205.15508) [[code]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)
+##### <span>One-class SVM</span>
+1. CIKM 2021: Subtractive Aggregation for Attributed Network Anomaly Detection [[Paper]](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Shuang_CIKM21.pdf) 
+2. NCA 2021: One-Class Graph Neural Networks for Anomaly Detection in Attributed Networks [[Paper]](https://arxiv.org/pdf/2002.09594) [[code]](https://github.com/WangXuhongCN/OCGNN)
+##### <span>Meta Learning</span>
+1. WWW 2021: Few-shot Network Anomaly Detection via Cross-network Meta-learning [[Paper]](https://arxiv.org/pdf/2102.11165) [[code]](https://github.com/kaize0409/Meta-GDN_AnomalyDetection)
 ##### <span>Contrastive Learning</span>
 1. TNNLS 2021: Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning [[Paper]](https://arxiv.org/pdf/2103.00113) [[code]](https://github.com/GRAND-Lab/CoLA)
 2. CIKM 2021: ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning [[Paper]](https://shiruipan.github.io/publication/cikm-21-jin/cikm-21-jin.pdf) [[code]](https://github.com/GRAND-Lab/ANEMONE)
@@ -55,11 +60,6 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 4. IJCAI 2022: Reconstruction Enhanced Multi-View Contrastive Learning for Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2108.09896) [[code]](https://github.com/Zjer12/Sub)
 ##### <span>Other Self-Supervised Learning</span>
 1. WSDM 2022: Hop-count Based Self-supervised Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2104.07917) [[code]](https://github.com/TienjinHuang/GraphAnomalyDetection)
-##### <span>One-class SVM</span>
-1. CIKM 2021: Subtractive Aggregation for Attributed Network Anomaly Detection [[Paper]](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Shuang_CIKM21.pdf) 
-2. NCA 2021: One-Class Graph Neural Networks for Anomaly Detection in Attributed Networks [[Paper]](https://arxiv.org/pdf/2002.09594) [[code]](https://github.com/WangXuhongCN/OCGNN)
-##### <span>Meta Learning</span>
-1. WWW 2021: Few-shot Network Anomaly Detection via Cross-network Meta-learning [[Paper]](https://arxiv.org/pdf/2102.11165) [[code]](https://github.com/kaize0409/Meta-GDN_AnomalyDetection)
 ##### <span>Others</span>
 1. AAAI 2022: LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20629/20388) [[code]](https://github.com/agoodge/LUNAR)
 ### <span id="jump22">Multi-View Static Graph</span>
