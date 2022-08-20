@@ -92,7 +92,7 @@ By way of injection, adding anomalous nodes to datasets that do not have anomali
 #### <span id="jump32">Real-world Anomaly Datasets</span>
 These datasets are born with anomalous nodes.
 | **Dataset**    | **Nodes** | **Edges** | **Features** | **Anomalies** | **URL**                                                        |
-|----------------|-----------|-----------|----------------|---------------|----------------------------------------------------------------|
+|:--------------:|:---------:|:---------:|:--------------:|:-------------:|:--------------------------------------------------------------:|
 | **Amazon**     | 1418      | 3695      | 21             | 28            | https://github.com/Juintin/GraphAnomalyDetection              |
 | **Enron**      | 13533     | 176987    | 20             | 5             | https://github.com/Juintin/GraphAnomalyDetection              |
 | **YelpChi**    | 45954     | 3846979   | 32             | 6677          | https://github.com/zjunet/AMNet                               |
