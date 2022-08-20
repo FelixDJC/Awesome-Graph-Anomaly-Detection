@@ -80,7 +80,7 @@ Papers focus on graph-level anomaly detection and work on single-view static gra
 By way of injection, adding anomalous nodes to datasets that do not have anomalies before. These anomalous nodes consist of feature anomalies and structure anomalies. The total number of anomalies are shown in the 5th column of table.
 
 | **Dataset**     | **Nodes** | **Edges** | **Features** | **Anomalies** | **URL**                              |
-|:---------------:|:---------:|:---------:|:--------------:|:-------------:|:------------------------------------:|
+|:---------------:|:---------:|:---------:|:--------------:|:-------------:|------------------------------------|
 | **BlogCatalog** | 5196      | 171743    | 8189           | 300           | https://github.com/GRAND-Lab/CoLA/ |
 | **Flickr**      | 7575      | 239738    | 12407          | 450           | https://github.com/GRAND-Lab/CoLA/ |
 | **ACM**         | 16484     | 71980     | 8337           | 600           | https://github.com/GRAND-Lab/CoLA/ |
@@ -92,13 +92,13 @@ By way of injection, adding anomalous nodes to datasets that do not have anomali
 #### <span id="jump32">Real-world Anomaly Datasets</span>
 These datasets are born with anomalous nodes.
 | **Dataset**    | **Nodes** | **Edges** | **Features** | **Anomalies** | **URL**                                                        |
-|:--------------:|:---------:|:---------:|:--------------:|:-------------:|:--------------------------------------------------------------:|
-| **Amazon**     | 1418      | 3695      | 21             | 28            | https://github.com/Juintin/GraphAnomalyDetection              |
-| **Enron**      | 13533     | 176987    | 20             | 5             | https://github.com/Juintin/GraphAnomalyDetection              |
-| **YelpChi**    | 45954     | 3846979   | 32             | 6677          | https://github.com/zjunet/AMNet                               |
-| **T\-Finance** | 39357     | 21222543  | 10             | 1803          | https://github.com/squareRoot3/Rethinking-Anomaly-Detection |
-| **T\-Social**  | 5781065   | 73105508  | 10             | 174010        | https://github.com/squareRoot3/Rethinking-Anomaly-Detection |
-| **Elliptic**   | 46564     | 73248     | 93             | 4,545         | https://github.com/zjunet/AMNet                               |
+|:--------------:|:---------:|:---------:|:--------------:|:-------------:|--------------------------------------------------------------|
+| **Amazon**     | 1418      | 3695      | 21             | 28            | https://github.com/Juintin/GraphAnomalyDetection             |
+| **Enron**      | 13533     | 176987    | 20             | 5             | https://github.com/Juintin/GraphAnomalyDetection             |
+| **YelpChi**    | 45954     | 3846979   | 32             | 6677          | https://github.com/zjunet/AMNet                              |
+| **T\-Finance** | 39357     | 21222543  | 10             | 1803          | https://github.com/squareRoot3/Rethinking-Anomaly-Detection  |
+| **T\-Social**  | 5781065   | 73105508  | 10             | 174010        | https://github.com/squareRoot3/Rethinking-Anomaly-Detection  |
+| **Elliptic**   | 46564     | 73248     | 93             | 4,545         | https://github.com/zjunet/AMNet                              |
 
 
 
