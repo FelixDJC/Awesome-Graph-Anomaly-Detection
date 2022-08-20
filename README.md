@@ -96,8 +96,8 @@ These datasets are born with anomalous nodes.
 | **Amazon**     | 1418      | 3695      | 21             | 28            | [[Amazon]](https://github.com/Juintin/GraphAnomalyDetection)             |
 | **Enron**      | 13533     | 176987    | 20             | 5             | [[Enron]](https://github.com/Juintin/GraphAnomalyDetection)            |
 | **YelpChi**    | 45954     | 3846979   | 32             | 6677          | [[YelpChi]](https://github.com/zjunet/AMNet)                              |
-| **T\-Finance** | 39357     | 21222543  | 10             | 1803          | [[T\-Finance]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)  |
-| **T\-Social**  | 5781065   | 73105508  | 10             | 174010        | [[T\-Social]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)  |
+| **T-Finance** | 39357     | 21222543  | 10             | 1803          | [[T-Finance]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)  |
+| **T-Social**  | 5781065   | 73105508  | 10             | 174010        | [[T-Social]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)  |
 | **Elliptic**   | 46564     | 73248     | 93             | 4,545         | [[Elliptic]](https://github.com/zjunet/AMNet)                              |
 
 
