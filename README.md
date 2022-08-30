@@ -5,14 +5,15 @@
 [visitors-img]: https://visitor-badge.glitch.me/badge?page_id=FelixDJC.Awesome-Graph-Anomaly-Detection
 [adgc-url]: https://github.com/FelixDJC/Awesome-Graph-Anomaly-Detection
 
-[![GitHub stars][stars-img]][stars-url]
-[![GitHub forks][fork-img]][fork-url]
-[![visitors][visitors-img]][adgc-url]
 
 # Awesome Graph Anomaly Detection 
 Collections for state-of-the-art (SOTA), novel awesome graph anomaly detecion methods (papers, codes and datasets)
 
 We are looking forward for other participants to share their papers and codes. If interested, please contanct <jingcan_duan@163.com> or jinhu@nudt.edu.cn.
+
+[![GitHub stars][stars-img]][stars-url]
+[![GitHub forks][fork-img]][fork-url]
+[![visitors][visitors-img]][adgc-url]
 
 ## Table of Contents
 
