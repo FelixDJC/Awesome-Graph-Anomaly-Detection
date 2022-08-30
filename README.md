@@ -1,4 +1,4 @@
-<!-- [stars-img]: https://img.shields.io/github/stars/FelixDJC/Awesome-Deep-Anomaly-Detection?color=yellow
+[stars-img]: https://img.shields.io/github/stars/FelixDJC/Awesome-Deep-Anomaly-Detection?color=yellow
 [stars-url]: https://github.com/FelixDJC/Awesome-Deep-Anomaly-Detection/stargazers
 [fork-img]: https://img.shields.io/github/forks/FelixDJC/Awesome-Deep-Anomaly-Detection?color=lightblue&label=fork
 [fork-url]: https://github.com/FelixDJC/Awesome-Deep-Anomaly-Detection/network/members
@@ -7,7 +7,7 @@
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
-[![visitors][visitors-img]][adgc-url] -->
+[![visitors][visitors-img]][adgc-url]
 
 # Awesome Graph Anomaly Detection 
 Collections for state-of-the-art (SOTA), novel awesome graph anomaly detecion methods (papers, codes and datasets)
