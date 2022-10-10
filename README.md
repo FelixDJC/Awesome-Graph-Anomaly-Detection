@@ -11,7 +11,7 @@ We are looking forward for other participants to share their papers and codes. I
 
 [![GitHub stars][stars-img]][stars-url]
 [![GitHub forks][fork-img]][fork-url]
-[![visitors][visitors-img]][adgc-url]
+
 
 ## Table of Contents
 
