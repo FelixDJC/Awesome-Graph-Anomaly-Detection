@@ -36,7 +36,7 @@ We are looking forward for other participants to share their papers and codes. I
 ## <span id="jump2">Papers and Codes</span>
 ### <span id="jump21">Single-View Static Graph</span>
 Papers focus on node-level anomaly detection and work on single-view static graph datasets.
-#### <span>Tradition Methods</span>
+#### <span>Traditional Methods</span>
 1. SIGMOD 2000: 
 LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/pdf/10.1145/342009.335388) [[code]](https://github.com/damjankuznar/pylof)
 2. KDD 2007: SCAN: a Structural Clustering Algorithm for Networks [[Paper]](http://web.cs.ucla.edu/~yzsun/classes/2014Spring_CS7280/Papers/Clustering/SCAN.pdf) [[code]](https://github.com/gombaniro/SCAN-A-Structural-Clustering-Algorithm-for-Networks)
