@@ -117,4 +117,7 @@ These datasets are born with anomalous nodes.
 ## <span id="jump4">Other Related Awesome Repository</span>
 [awesome-multi-view-clustering](https://github.com/wangsiwei2010/awesome-multi-view-clustering)
 
+[Incomplete Multi-view Clustering](https://github.com/Jeaninezpp/Incomplete-multi-view-clustering)
+
 [Awesome Deep Graph Clustering](https://github.com/yueliu1999/Awesome-Deep-Graph-Clustering)
+
