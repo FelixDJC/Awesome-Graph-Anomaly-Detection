@@ -3,7 +3,7 @@
 [fork-img]: https://img.shields.io/github/forks/FelixDJC/Awesome-Graph-Anomaly-Detection?color=lightblue&label=fork
 [fork-url]: https://github.com/FelixDJC/Awesome-Graph-Anomaly-Detection/network/members
 [visitors-img]: https://visitor-badge.glitch.me/badge?page_id=FelixDJC.Awesome-Graph-Anomaly-Detection
-
+[adgc-url]: https://github.com/FelixDJC/Awesome-Graph-Anomaly-Detection
 
 # Awesome Graph Anomaly Detection 
 Collections for state-of-the-art (SOTA), novel awesome graph anomaly detecion methods (papers, codes and datasets)
