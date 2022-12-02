@@ -68,6 +68,7 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 ##### <span>Contrastive Learning</span>
 1. TNNLS 2021: Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning [[Paper]](https://arxiv.org/pdf/2103.00113) [[code]](https://github.com/GRAND-Lab/CoLA)
 2. CIKM 2021: ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning [[Paper]](https://shiruipan.github.io/publication/cikm-21-jin/cikm-21-jin.pdf) [[code]](https://github.com/GRAND-Lab/ANEMONE)
+3. AAAI 2023: Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View [[Paper]](https://arxiv.org/abs/2212.00535)
 ##### <span>Hybrid Methods</span>
 1. TKDE 2021: Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection [[Paper]](https://arxiv.org/pdf/2108.09896) [[code]](https://github.com/KimMeen/SL-GAD)
 2. IJCAI 2022: Reconstruction Enhanced Multi-View Contrastive Learning for Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2108.09896) [[code]](https://github.com/Zjer12/Sub)
