@@ -30,7 +30,7 @@ We are looking forward for other participants to share their papers and codes. I
 
 ---
 
-## <span id="jump1">Important Survey Papers</span>
+## <span id="jump1">Important Survey and Benchmark Papers</span>
 1. TKDE 2021: A Comprehensive Survey on Graph Anomaly Detection with Deep Learning [[Paper]](https://arxiv.org/pdf/2106.07178.pdf)
 2. NeurIPS 2022: BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs [[Paper]](https://openreview.net/pdf?id=YXvGXEmtZ5N) [[code]](https://github.com/pygod-team/pygod)
 
