@@ -31,7 +31,8 @@ We are looking forward for other participants to share their papers and codes. I
 ---
 
 ## <span id="jump1">Important Survey Papers</span>
-1. A Comprehensive Survey on Graph Anomaly Detection with Deep Learning [[Paper]](https://arxiv.org/pdf/2106.07178.pdf)
+1. TKDE 2021: A Comprehensive Survey on Graph Anomaly Detection with Deep Learning [[Paper]](https://arxiv.org/pdf/2106.07178.pdf)
+2. NeurIPS 2022: BOND: Benchmarking Unsupervised Outlier Node Detection on Static Attributed Graphs [[Paper]](https://openreview.net/pdf?id=YXvGXEmtZ5N) [[code]](https://github.com/pygod-team/pygod)
 
 ---
 
@@ -48,8 +49,9 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 #### <span>Deep Methods</span>
 ##### <span>Reconstruction</span>
 1. SDM 2019: Deep Anomaly Detection on Attributed Networks [[Paper]](https://www.researchgate.net/profile/Kaize-Ding/publication/332888297_Deep_Anomaly_Detection_on_Attributed_Networks/links/606f78364585150fe993abb6/Deep-Anomaly-Detection-on-Attributed-Networks.pdf) [[code]](https://github.com/kaize0409/GCN_AnomalyDetection_pytorch)
-2. TKDE 2021: Hybrid-order Anomaly Detection on Attributed Networks [[Paper]](https://ieeexplore.ieee.org/abstract/document/9560054/) [[code]](https://github.com/zirui-yuan/HO-GAT)
-3. WSDM 2022: ComGA: Community-Aware Attributed Graph Anomaly Detection [[Paper]](https://dl.acm.org/doi/abs/10.1145/3488560.3498389) [[code]](https://github.com/XuexiongLuoMQ/ComGA)
+2. DSAA 2021: ResGCN: Attention-based Deep Residual Modeling for Anomaly Detection on Attributed Networks [[Paper]](https://link.springer.com/content/pdf/10.1007/s10994-021-06044-0.pdf) [[code]](https://bitbucket.org/paulpei/resgcn)
+3. TKDE 2021: Hybrid-order Anomaly Detection on Attributed Networks [[Paper]](https://ieeexplore.ieee.org/abstract/document/9560054/) [[code]](https://github.com/zirui-yuan/HO-GAT)
+4. WSDM 2022: ComGA: Community-Aware Attributed Graph Anomaly Detection [[Paper]](https://dl.acm.org/doi/abs/10.1145/3488560.3498389) [[code]](https://github.com/XuexiongLuoMQ/ComGA)
 
 ##### <span>Reinforcement Learning</span>
 1. WSDM 2019: Interactive Anomaly Detection on Attributed Networks [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290964) [[code]](https://github.com/kaize0409/GraphUCB_AnomalyDetection)
