@@ -75,7 +75,7 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 1. TKDE 2021: Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection [[Paper]](https://arxiv.org/pdf/2108.09896) [[code]](https://github.com/KimMeen/SL-GAD)
 2. IJCAI 2022: Reconstruction Enhanced Multi-View Contrastive Learning for Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2108.09896) [[code]](https://github.com/Zjer12/Sub)
 ##### <span>Other Self-Supervised Learning</span>
-1. WSDM 2022: Hop-count Based Self-supervised Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2104.07917) [[code]](https://github.com/TienjinHuang/GraphAnomalyDetection)
+1. Hop-count Based Self-supervised Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2104.07917) [[code]](https://github.com/TienjinHuang/GraphAnomalyDetection)
 ##### <span>Others</span>
 1. AAAI 2022: LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20629/20388) [[code]](https://github.com/agoodge/LUNAR)
 ### <span id="jump22">Multi-View Static Graph</span>
