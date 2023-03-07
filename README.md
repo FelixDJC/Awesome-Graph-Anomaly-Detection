@@ -75,7 +75,7 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 1. TKDE 2021: Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection [[Paper]](https://arxiv.org/pdf/2108.09896) [[code]](https://github.com/KimMeen/SL-GAD)
 2. IJCAI 2022: Reconstruction Enhanced Multi-View Contrastive Learning for Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2108.09896) [[code]](https://github.com/Zjer12/Sub)
 ##### <span>Other Self-Supervised Learning</span>
-1. Hop-count Based Self-supervised Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2104.07917) [[code]](https://github.com/TienjinHuang/GraphAnomalyDetection)
+1. Arxiv 2021: Hop-count Based Self-supervised Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2104.07917) [[code]](https://github.com/TienjinHuang/GraphAnomalyDetection)
 ##### <span>Others</span>
 1. AAAI 2022: LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20629/20388) [[code]](https://github.com/agoodge/LUNAR)
 ### <span id="jump22">Multi-View Static Graph</span>
@@ -87,6 +87,7 @@ Papers focus on node-level anomaly detection and work on single-view temporal gr
 ### <span id="jump24">Others</span>
 Papers focus on graph-level anomaly detection and work on single-view static graph datasets.
 1. WSDM 2022: Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation [[Paper]](https://arxiv.org/pdf/2112.10063) [[code]](https://github.com/RongrongMa/GLocalKD)
+2. WSDM 2023: GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection [[Paper]](https://arxiv.org/pdf/2211.04208.pdf) [[code]](https://github.com/yixinliu233/G-OOD-D)
 
 ---
 
