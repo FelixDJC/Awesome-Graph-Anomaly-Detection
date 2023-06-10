@@ -62,6 +62,7 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 ##### <span>Filter</span>
 1. IJCAI 2022: Can Abnormality be Detected by Graph Neural Networks? [[Paper]](http://yangy.org/works/gnn/IJCAI22_Abnormality.pdf) [[code]](https://github.com/zjunet/AMNet)
 2. ICML 2022: Rethinking Graph Neural Networks for Anomaly Detection [[Paper]](https://arxiv.org/pdf/2205.15508) [[code]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)
+3. Arxiv 2023: Truncated affinity maximization: one-class homophily modeling for graph anomaly detection [[Paper]](https://arxiv.org/abs/2306.00006) [[code]](https://github.com/mala-lab/TAM-master/)
 ##### <span>One-class SVM</span>
 1. CIKM 2021: Subtractive Aggregation for Attributed Network Anomaly Detection [[Paper]](https://www4.comp.polyu.edu.hk/~xiaohuang/docs/Shuang_CIKM21.pdf) 
 2. NCA 2021: One-Class Graph Neural Networks for Anomaly Detection in Attributed Networks [[Paper]](https://arxiv.org/pdf/2002.09594) [[code]](https://github.com/WangXuhongCN/OCGNN)
