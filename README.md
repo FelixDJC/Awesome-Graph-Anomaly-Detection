@@ -74,6 +74,7 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 ##### <span>Hybrid Methods</span>
 1. TKDE 2021: Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection [[Paper]](https://arxiv.org/pdf/2108.09896) [[code]](https://github.com/KimMeen/SL-GAD)
 2. IJCAI 2022: Reconstruction Enhanced Multi-View Contrastive Learning for Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2108.09896) [[code]](https://github.com/Zjer12/Sub)
+3. TKDE 2023: Counterfactual Graph Learning for Anomaly Detection on Attributed Networks [[Paper]](https://www.researchgate.net/publication/368909540_Counterfactual_Graph_Learning_for_Anomaly_Detection_on_Attributed_Networks)
 ##### <span>Other Self-Supervised Learning</span>
 1. Arxiv 2021: Hop-count Based Self-supervised Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2104.07917) [[code]](https://github.com/TienjinHuang/GraphAnomalyDetection)
 ##### <span>Others</span>
