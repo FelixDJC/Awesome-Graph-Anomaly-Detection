@@ -49,6 +49,7 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 2. DSAA 2021: ResGCN: Attention-based Deep Residual Modeling for Anomaly Detection on Attributed Networks [[Paper]](https://link.springer.com/content/pdf/10.1007/s10994-021-06044-0.pdf) [[code]](https://bitbucket.org/paulpei/resgcn)
 3. TKDE 2021: Hybrid-order Anomaly Detection on Attributed Networks [[Paper]](https://ieeexplore.ieee.org/abstract/document/9560054/) [[code]](https://github.com/zirui-yuan/HO-GAT)
 4. WSDM 2022: ComGA: Community-Aware Attributed Graph Anomaly Detection [[Paper]](https://dl.acm.org/doi/abs/10.1145/3488560.3498389) [[code]](https://github.com/XuexiongLuoMQ/ComGA)
+5. arXiv 2023: GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction [[Paper]](https://arxiv.org/abs/2306.01951) [[code]](https://github.com/Graph-COM/GAD-NR)
 
 ##### <span>Reinforcement Learning</span>
 1. WSDM 2019: Interactive Anomaly Detection on Attributed Networks [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290964) [[code]](https://github.com/kaize0409/GraphUCB_AnomalyDetection)
