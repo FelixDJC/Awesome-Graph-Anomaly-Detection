@@ -38,30 +38,20 @@ We are looking forward for other participants to share their papers and codes. I
 Papers focus on node-level anomaly detection and work on single-view static graph datasets.
 #### <span>Traditional Methods</span>
 1. SIGMOD 2000: 
-LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/pdf/10.1145/342009.335388)
-        
-         [code]](https://github.com/damjankuznar/pylof)
+LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/pdf/10.1145/342009.335388)[[code]](https://github.com/damjankuznar/pylof)
 2. KDD 2007: SCAN: a Structural Clustering Algorithm for Networks [[Paper]](http://web.cs.ucla.edu/~yzsun/classes/2014Spring_CS7280/Papers/Clustering/SCAN.pdf) [[code]](https://github.com/gombaniro/SCAN-A-Structural-Clustering-Algorithm-for-Networks)
-3. SDM 2016: Scalable Anomaly Ranking of Attributed Neighborhoods [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974348.24)
-        
-         [code]](https://github.com/phanein/amen)
+3. SDM 2016: Scalable Anomaly Ranking of Attributed Neighborhoods [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611974348.24)[[code]](https://github.com/phanein/amen)
 4. IJCAI 2017: Radar: Residual Analysis for Anomaly Detection in Attributed Networks [[Paper]](https://www.researchgate.net/profile/Jundong-Li/publication/318830338_Radar_Residual_Analysis_for_Anomaly_Detection_in_Attributed_Networks/links/5a1f17c4458515a4c3d478ce/Radar-Residual-Analysis-for-Anomaly-Detection-in-Attributed-Networks.pdf) [[code]](https://github.com/szumbrunn/radar-java)
 5. IJCAI 2018: ANOMALOUS: A Joint Modeling Approach for Anomaly Detection on Attributed Networks [[Paper]](https://www.ijcai.org/Proceedings/2018/0488.pdf) [[code]](https://github.com/zpeng27/ANOMALOUS)
 #### <span>Deep Methods</span>
 ##### <span>Reconstruction</span>
 1. SDM 2019: Deep Anomaly Detection on Attributed Networks [[Paper]](https://www.researchgate.net/profile/Kaize-Ding/publication/332888297_Deep_Anomaly_Detection_on_Attributed_Networks/links/606f78364585150fe993abb6/Deep-Anomaly-Detection-on-Attributed-Networks.pdf) [[code]](https://github.com/kaize0409/GCN_AnomalyDetection_pytorch)
-2. DSAA 2021: ResGCN: Attention-based Deep Residual Modeling for Anomaly Detection on Attributed Networks [[Paper]](https://link.springer.com/content/pdf/10.1007/s10994-021-06044-0.pdf)
-        
-         [code]](https://bitbucket.org/paulpei/resgcn)
-3. TKDE 2021: Hybrid-order Anomaly Detection on Attributed Networks [[Paper]](https://ieeexplore.ieee.org/abstract/document/9560054/) [[code]](https://github.com/zirui-yuan/HO-GAT)
-4. WSDM 2022: ComGA: Community-Aware Attributed Graph Anomaly Detection [[Paper]](https://dl.acm.org/doi/abs/10.1145/3488560.3498389)
-        
-         [code]](https://github.com/XuexiongLuoMQ/ComGA)
+2. DSAA 2021: ResGCN: Attention-based Deep Residual Modeling for Anomaly Detection on Attributed Networks [[Paper]](https://link.springer.com/content/pdf/10.1007/s10994-021-06044-0.pdf)[[code]](https://bitbucket.org/paulpei/resgcn)
+3. TKDE 2021: Hybrid-order Anomaly Detection on Attributed Networks [[Paper]](https://ieeexplore.ieee.org/abstract/document/9560054/)[[code]](https://github.com/zirui-yuan/HO-GAT)
+4. WSDM 2022: ComGA: Community-Aware Attributed Graph Anomaly Detection [[Paper]](https://dl.acm.org/doi/abs/10.1145/3488560.3498389)[[code]](https://github.com/XuexiongLuoMQ/ComGA)
 
 ##### <span>Reinforcement Learning</span>
-1. WSDM 2019: Interactive Anomaly Detection on Attributed Networks [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290964)
-        
-         [code]](https://github.com/kaize0409/GraphUCB_AnomalyDetection)
+1. WSDM 2019: Interactive Anomaly Detection on Attributed Networks [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290964)[[code]](https://github.com/kaize0409/GraphUCB_AnomalyDetection)
 2. CIKM 2021: Towards Anomaly-resistant Graph Neural Networks via Reinforcement Learning [[Paper]](https://www.public.asu.edu/~kding9/pdf/CIKM2021_RARE-GNN.pdf) 
 ##### <span>Generative Adversarial Network</span>
 1. IJCAI 2020: Inductive Anomaly Detection on Attributed Networks [[Paper]](http://www.ece.virginia.edu/~jl6qk/pubs/IJCAI2020-1.pdf) 
