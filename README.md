@@ -57,6 +57,12 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 1. IJCAI 2020: Inductive Anomaly Detection on Attributed Networks [[Paper]](http://www.ece.virginia.edu/~jl6qk/pubs/IJCAI2020-1.pdf) 
 2. CIKM 2020: Generative Adversarial Attributed Network Anomaly Detection [[Paper]](https://static.aminer.cn/storage/pdf/acm/20/cikm/10.1145/3340531.3412070.pdf)
         
+        
+        
+        
+        
+        
+        
          
 ##### <span>Filter</span>
 1. IJCAI 2022: Can Abnormality be Detected by Graph Neural Networks? [[Paper]](http://yangy.org/works/gnn/IJCAI22_Abnormality.pdf) [[code]](https://github.com/zjunet/AMNet)
@@ -70,11 +76,12 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 1. TNNLS 2021: Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning [[Paper]](https://arxiv.org/pdf/2103.00113) [[code]](https://github.com/GRAND-Lab/CoLA)
 2. CIKM 2021: ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning [[Paper]](https://shiruipan.github.io/publication/cikm-21-jin/cikm-21-jin.pdf) [[code]](https://github.com/GRAND-Lab/ANEMONE)
 3. AAAI 2023: Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View [[Paper]](https://arxiv.org/abs/2212.00535) [[code]](https://github.com/FelixDJC/GRADATE)
-4. ACM MM 2023: Normality Learning-based Graph Anomaly Detection via Multi-Scale Contrastive Learning [[code]](https://github.com/FelixDJC/NLGAD)
+4. ACM MM 2023: Normality Learning-based Graph Anomaly Detection via Multi-Scale Contrastive Learning [[Paper]](https://arxiv.org/abs/2309.06034) [[code]](https://github.com/FelixDJC/NLGAD)
 ##### <span>Hybrid Methods</span>
 1. TKDE 2021: Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection [[Paper]](https://arxiv.org/pdf/2108.09896) [[code]](https://github.com/KimMeen/SL-GAD)
 2. IJCAI 2022: Reconstruction Enhanced Multi-View Contrastive Learning for Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2108.09896) [[code]](https://github.com/Zjer12/Sub)
 3. TKDE 2023: Counterfactual Graph Learning for Anomaly Detection on Attributed Networks [[Paper]](https://www.researchgate.net/publication/368909540_Counterfactual_Graph_Learning_for_Anomaly_Detection_on_Attributed_Networks)
+4. TNNLS 2023: ARISE: Graph Anomaly Detection on Attributed Networks via Substructure Awareness [[Paper]](https://ieeexplore.ieee.org/document/10258476) [[code]](https://github.com/FelixDJC/ARISE)
 ##### <span>Other Self-Supervised Learning</span>
 1. Arxiv 2021: Hop-count Based Self-supervised Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2104.07917) [[code]](https://github.com/TienjinHuang/GraphAnomalyDetection)
 ##### <span>Others</span>
