@@ -46,7 +46,7 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 #### <span>Deep Methods</span>
 ##### <span>Reconstruction</span>
 1. SDM 2019: Deep Anomaly Detection on Attributed Networks [[Paper]](https://www.researchgate.net/profile/Kaize-Ding/publication/332888297_Deep_Anomaly_Detection_on_Attributed_Networks/links/606f78364585150fe993abb6/Deep-Anomaly-Detection-on-Attributed-Networks.pdf) [[Code]](https://github.com/kaize0409/GCN_AnomalyDetection_pytorch)
-2. DSAA 2021: ResGCN: Attention-based Deep Residual Modeling for Anomaly Detection on Attributed Networks [[Paper]](https://link.springer.com/content/pdf/10.1007/s10994-021-06044-0.pdf)[[code]](https://bitbucket.org/paulpei/resgcn)
+2. DSAA 2021: ResGCN: Attention-based Deep Residual Modeling for Anomaly Detection on Attributed Networks [[Paper]](https://link.springer.com/content/pdf/10.1007/s10994-021-06044-0.pdf)[[Code]](https://bitbucket.org/paulpei/resgcn)
 3. TKDE 2021: Hybrid-order Anomaly Detection on Attributed Networks [[Paper]](https://ieeexplore.ieee.org/abstract/document/9560054/)[[Code]](https://github.com/zirui-yuan/HO-GAT)
 4. WSDM 2022: ComGA: Community-Aware Attributed Graph Anomaly Detection [[Paper]](https://dl.acm.org/doi/abs/10.1145/3488560.3498389)[[Code]](https://github.com/XuexiongLuoMQ/ComGA)
 
@@ -56,6 +56,8 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 ##### <span>Generative Adversarial Network</span>
 1. IJCAI 2020: Inductive Anomaly Detection on Attributed Networks [[Paper]](http://www.ece.virginia.edu/~jl6qk/pubs/IJCAI2020-1.pdf) 
 2. CIKM 2020: Generative Adversarial Attributed Network Anomaly Detection [[Paper]](https://static.aminer.cn/storage/pdf/acm/20/cikm/10.1145/3340531.3412070.pdf)
+        
+        
         
         
         
