@@ -49,27 +49,12 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 2. DSAA 2021: ResGCN: Attention-based Deep Residual Modeling for Anomaly Detection on Attributed Networks [[Paper]](https://link.springer.com/content/pdf/10.1007/s10994-021-06044-0.pdf)[[Code]](https://bitbucket.org/paulpei/resgcn)
 3. TKDE 2021: Hybrid-order Anomaly Detection on Attributed Networks [[Paper]](https://ieeexplore.ieee.org/abstract/document/9560054/)[[Code]](https://github.com/zirui-yuan/HO-GAT)
 4. WSDM 2022: ComGA: Community-Aware Attributed Graph Anomaly Detection [[Paper]](https://dl.acm.org/doi/abs/10.1145/3488560.3498389)[[Code]](https://github.com/XuexiongLuoMQ/ComGA)
-
 ##### <span>Reinforcement Learning</span>
 1. WSDM 2019: Interactive Anomaly Detection on Attributed Networks [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290964)[[Code]](https://github.com/kaize0409/GraphUCB_AnomalyDetection)
 2. CIKM 2021: Towards Anomaly-resistant Graph Neural Networks via Reinforcement Learning [[Paper]](https://www.public.asu.edu/~kding9/pdf/CIKM2021_RARE-GNN.pdf) 
 ##### <span>Generative Adversarial Network</span>
 1. IJCAI 2020: Inductive Anomaly Detection on Attributed Networks [[Paper]](http://www.ece.virginia.edu/~jl6qk/pubs/IJCAI2020-1.pdf) 
 2. CIKM 2020: Generative Adversarial Attributed Network Anomaly Detection [[Paper]](https://static.aminer.cn/storage/pdf/acm/20/cikm/10.1145/3340531.3412070.pdf)
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-        
-         
 ##### <span>Filter</span>
 1. IJCAI 2022: Can Abnormality be Detected by Graph Neural Networks? [[Paper]](http://yangy.org/works/gnn/IJCAI22_Abnormality.pdf) [[Code]](https://github.com/zjunet/AMNet)
 2. ICML 2022: Rethinking Graph Neural Networks for Anomaly Detection [[Paper]](https://arxiv.org/pdf/2205.15508) [[Code]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)
