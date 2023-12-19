@@ -55,12 +55,6 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 ##### <span>Generative Adversarial Network</span>
 1. IJCAI 2020: Inductive Anomaly Detection on Attributed Networks [[Paper]](http://www.ece.virginia.edu/~jl6qk/pubs/IJCAI2020-1.pdf) 
 2. CIKM 2020: Generative Adversarial Attributed Network Anomaly Detection [[Paper]](https://static.aminer.cn/storage/pdf/acm/20/cikm/10.1145/3340531.3412070.pdf)
-        
-        
-        
-        
-        
-        
 ##### <span>Filter</span>
 1. IJCAI 2022: Can Abnormality be Detected by Graph Neural Networks? [[Paper]](http://yangy.org/works/gnn/IJCAI22_Abnormality.pdf) [[Code]](https://github.com/zjunet/AMNet)
 2. ICML 2022: Rethinking Graph Neural Networks for Anomaly Detection [[Paper]](https://arxiv.org/pdf/2205.15508) [[Code]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)
