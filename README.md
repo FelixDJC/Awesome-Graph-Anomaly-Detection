@@ -64,6 +64,8 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
         
         
         
+        
+        
 ##### <span>Filter</span>
 1. IJCAI 2022: Can Abnormality be Detected by Graph Neural Networks? [[Paper]](http://yangy.org/works/gnn/IJCAI22_Abnormality.pdf) [[Code]](https://github.com/zjunet/AMNet)
 2. ICML 2022: Rethinking Graph Neural Networks for Anomaly Detection [[Paper]](https://arxiv.org/pdf/2205.15508) [[Code]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)
@@ -100,6 +102,7 @@ Papers focus on node-level anomaly detection and work on single-view temporal gr
 Papers focus on graph-level anomaly detection and work on single-view static graph datasets.
 1. WSDM 2022: Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation [[Paper]](https://arxiv.org/pdf/2112.10063) [[Code]](https://github.com/RongrongMa/GLocalKD)
 2. WSDM 2023: GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection [[Paper]](https://arxiv.org/pdf/2211.04208.pdf) [[Code]](https://github.com/yixinliu233/G-OOD-D)
+3. Towards Graph-level Anomaly Detection via Deep Evolutionary Mapping [[Paper]](https://dl.acm.org/doi/10.1145/3580305.3599524)[[Code]](https://github.com/XiaoxiaoMa-MQ/GmapAD/)
 
 ---
 
