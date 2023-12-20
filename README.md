@@ -113,13 +113,14 @@ Papers focus on node-level anomaly detection and work on multi-view static graph
 1. TKDE 2022: A Deep Multi-View Framework for Anomaly Detection on Attributed Networks [[Paper]](https://ieeexplore.ieee.org/abstract/document/9162509/) 
 ### <span id="jump23">Temporal Graph</span>
 Papers focus on node-level anomaly detection and work on single-view temporal graph datasets.
-### <span id="jump24">Others</span>
+### <span id="jump24">Graph-level Anomaly Detection</span>
 Papers focus on graph-level anomaly detection and work on single-view static graph datasets.
 1. IJCAI 2022: Raising the Bar in Graph-level Anomaly Detection [[Paper]](https://www.ijcai.org/proceedings/2022/305) [[Code]](https://github.com/boschresearch/GraphLevel-AnomalyDetection)
-2. WSDM 2022: Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation [[Paper]](https://arxiv.org/pdf/2112.10063) [[Code]](https://github.com/RongrongMa/GLocalKD)
-3. WSDM 2023: GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection [[Paper]](https://arxiv.org/pdf/2211.04208.pdf) [[Code]](https://github.com/yixinliu233/G-OOD-D)
-4. KDD 2023: Towards Graph-level Anomaly Detection via Deep Evolutionary Mapping [[Paper]](https://dl.acm.org/doi/10.1145/3580305.3599524)[[Code]](https://github.com/XiaoxiaoMa-MQ/GmapAD/)
-5. ECML PKDD 2023: CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43412-9_11)[[Code]](https://github.com/jindongli-Ai/CVTGAD)
+2. NeurIPS 2022: Dual-discriminative Graph Neural Network for Imbalanced Graph-level Anomaly Detection [[Paper]](https://proceedings.neurips.cc/paper_files/paper/2022/file/98a625423070cfc6ae3d82d4b59408a0-Paper-Conference.pdf) 
+3. WSDM 2022: Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation [[Paper]](https://arxiv.org/pdf/2112.10063) [[Code]](https://github.com/RongrongMa/GLocalKD)
+4. WSDM 2023: GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection [[Paper]](https://arxiv.org/pdf/2211.04208.pdf) [[Code]](https://github.com/yixinliu233/G-OOD-D)
+5. KDD 2023: Towards Graph-level Anomaly Detection via Deep Evolutionary Mapping [[Paper]](https://dl.acm.org/doi/10.1145/3580305.3599524)[[Code]](https://github.com/XiaoxiaoMa-MQ/GmapAD/)
+6. ECML PKDD 2023: CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43412-9_11)[[Code]](https://github.com/jindongli-Ai/CVTGAD)
 
 ---
 
