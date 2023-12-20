@@ -122,6 +122,7 @@ Papers focus on graph-level anomaly detection and work on single-view static gra
 4. WSDM 2023: GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection [[Paper]](https://arxiv.org/pdf/2211.04208.pdf) [[Code]](https://github.com/yixinliu233/G-OOD-D)
 5. KDD 2023: Towards Graph-level Anomaly Detection via Deep Evolutionary Mapping [[Paper]](https://dl.acm.org/doi/10.1145/3580305.3599524)[[Code]](https://github.com/XiaoxiaoMa-MQ/GmapAD/)
 6. ECML PKDD 2023: CVTGAD: Simplified Transformer with Cross-View Attention for Unsupervised Graph-Level Anomaly Detection [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-43412-9_11)[[Code]](https://github.com/jindongli-Ai/CVTGAD)
+7. NeurIPS 2023: Towards Self-Interpretable Graph-Level Anomaly Detection [[Paper]](https://arxiv.org/pdf/2310.16520) [[Code]](https://github.com/yixinliu233/SIGNET)
 
 ---
 
