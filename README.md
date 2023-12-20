@@ -70,6 +70,8 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
         
         
         
+        
+        
 ##### <span>Filter</span>
 1. IJCAI 2022: Can Abnormality be Detected by Graph Neural Networks? [[Paper]](http://yangy.org/works/gnn/IJCAI22_Abnormality.pdf) [[Code]](https://github.com/zjunet/AMNet)
 2. ICML 2022: Rethinking Graph Neural Networks for Anomaly Detection [[Paper]](https://arxiv.org/pdf/2205.15508) [[Code]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)
@@ -97,6 +99,7 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 1. ICDM 2023: Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection [[Paper]](https://arxiv.org/pdf/2310.04171.pdf)[[Code]](https://github.com/bdi-lab/DRAG)
 ##### <span>Others</span>
 1. AAAI 2022: LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20629/20388) [[Code]](https://github.com/agoodge/LUNAR)
+2. ACM MM 2023: Collaborative Fraud Detection: How Collaboration Impacts Fraud Detection [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613780)[[Code]](https://github.com/CatScarf/COFD-MM)
 ### <span id="jump22">Multi-View Static Graph</span>
 Papers focus on node-level anomaly detection and work on multi-view static graph datasets.
 ##### <span>Reconstruction</span>
