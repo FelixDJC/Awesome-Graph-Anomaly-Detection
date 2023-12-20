@@ -49,7 +49,7 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 2. DSAA 2021: ResGCN: Attention-based Deep Residual Modeling for Anomaly Detection on Attributed Networks [[Paper]](https://link.springer.com/content/pdf/10.1007/s10994-021-06044-0.pdf)[[Code]](https://bitbucket.org/paulpei/resgcn)
 3. TKDE 2021: Hybrid-order Anomaly Detection on Attributed Networks [[Paper]](https://ieeexplore.ieee.org/abstract/document/9560054/)[[Code]](https://github.com/zirui-yuan/HO-GAT)
 4. WSDM 2022: ComGA: Community-Aware Attributed Graph Anomaly Detection [[Paper]](https://dl.acm.org/doi/abs/10.1145/3488560.3498389)[[Code]](https://github.com/XuexiongLuoMQ/ComGA)
-5. ICDE 2023: Unsupervised Graph Outlier Detection: Problem, Revisit, New Insight, and Superior Method [[Paper]](https://ieeexplore.ieee.org/abstract/document/10184523) [[Code]](https://github.com/goldenNormal/vgod-github/blob/)
+5. ICDE 2023: Unsupervised Graph Outlier Detection: Problem, Revisit, New Insight, and Superior Method [[Paper]](https://ieeexplore.ieee.org/abstract/document/10184523) [[Code]](https://github.com/goldenNormal/vgod-github/tree/master)
 ##### <span>Reinforcement Learning</span>
 1. WSDM 2019: Interactive Anomaly Detection on Attributed Networks [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290964)[[Code]](https://github.com/kaize0409/GraphUCB_AnomalyDetection)
 2. CIKM 2021: Towards Anomaly-resistant Graph Neural Networks via Reinforcement Learning [[Paper]](https://www.public.asu.edu/~kding9/pdf/CIKM2021_RARE-GNN.pdf)
