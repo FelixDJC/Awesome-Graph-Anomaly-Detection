@@ -96,6 +96,7 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 4. TNNLS 2023: ARISE: Graph Anomaly Detection on Attributed Networks via Substructure Awareness [[Paper]](https://ieeexplore.ieee.org/document/10258476) [[Code]](https://github.com/FelixDJC/ARISE)
 ##### <span>Other Self-Supervised Learning</span>
 1. Arxiv 2021: Hop-count Based Self-supervised Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2104.07917) [[Code]](https://github.com/TienjinHuang/GraphAnomalyDetection)
+2. TII 2023: CaCo: Attributed Network Anomaly Detection via Canonical Correlation Analysis [[Paper]](https://ieeexplore.ieee.org/document/10098962)[[Code]](https://github.com/eighto6/CaCo)
 ##### <span>Attention</span>
 1. ICDM 2023: Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection [[Paper]](https://arxiv.org/pdf/2310.04171.pdf)[[Code]](https://github.com/bdi-lab/DRAG)
 ##### <span>Others</span>
