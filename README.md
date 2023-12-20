@@ -81,6 +81,8 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
         
         
         
+        
+        
 ##### <span>Filter</span>
 1. IJCAI 2022: Can Abnormality be Detected by Graph Neural Networks? [[Paper]](http://yangy.org/works/gnn/IJCAI22_Abnormality.pdf) [[Code]](https://github.com/zjunet/AMNet)
 2. ICML 2022: Rethinking Graph Neural Networks for Anomaly Detection [[Paper]](https://arxiv.org/pdf/2205.15508) [[Code]](https://github.com/squareRoot3/Rethinking-Anomaly-Detection)
@@ -103,7 +105,11 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
         
         
         
-7. SDM 2023: Abnormal Event Detection via Hypergraph Contrastive Learning [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch80)[Code]](https://github.com/BUPT-GAMMA/AEHCL)
+        
+        
+7. SDM 2023: Abnormal Event Detection via Hypergraph Contrastive Learning [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch80)
+        
+        [Code]](https://github.com/BUPT-GAMMA/AEHCL)
 ##### <span>Hybrid Methods</span>
 1. TKDE 2021: Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection [[Paper]](https://arxiv.org/pdf/2108.09896) [[Code]](https://github.com/KimMeen/SL-GAD)
 2. IJCAI 2022: Reconstruction Enhanced Multi-View Contrastive Learning for Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2108.09896) [[Code]](https://github.com/Zjer12/Sub)
