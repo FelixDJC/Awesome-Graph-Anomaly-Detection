@@ -81,6 +81,7 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 2. NCA 2021: One-Class Graph Neural Networks for Anomaly Detection in Attributed Networks [[Paper]](https://arxiv.org/pdf/2002.09594) [[Code]](https://github.com/WangXuhongCN/OCGNN)
 ##### <span>Meta Learning</span>
 1. WWW 2021: Few-shot Network Anomaly Detection via Cross-network Meta-learning [[Paper]](https://arxiv.org/pdf/2102.11165) [[Code]](https://github.com/kaize0409/Meta-GDN_AnomalyDetection)
+2. Arxiv 2023: MetaGAD: Learning to Meta-Transfer for Few-shot Graph Anomaly Detection [[Paper]](https://arxiv.org/abs/2305.10668)
 ##### <span>Contrastive Learning</span>
 1. TNNLS 2021: Anomaly Detection on Attributed Networks via Contrastive Self-Supervised Learning [[Paper]](https://arxiv.org/pdf/2103.00113) [[Code]](https://github.com/GRAND-Lab/CoLA)
 2. CIKM 2021: ANEMONE: Graph Anomaly Detection with Multi-Scale Contrastive Learning [[Paper]](https://shiruipan.github.io/publication/cikm-21-jin/cikm-21-jin.pdf) [[Code]](https://github.com/GRAND-Lab/ANEMONE)
