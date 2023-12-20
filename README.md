@@ -85,7 +85,7 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 3. AAAI 2023: Graph Anomaly Detection via Multi-Scale Contrastive Learning Networks with Augmented View [[Paper]](https://arxiv.org/abs/2212.00535) [[Code]](https://github.com/FelixDJC/GRADATE)
 4. ACM MM 2023: Normality Learning-based Graph Anomaly Detection via Multi-Scale Contrastive Learning [[Paper]](https://arxiv.org/abs/2309.06034) [[Code]](https://github.com/FelixDJC/NLGAD)
 5. ICDM 2023: PREM: A Simple Yet Effective Approach for Node-Level Graph Anomaly Detection [[Paper]](https://arxiv.org/abs/2310.11676)[[Code]](https://github.com/CampanulaBells/PREM-GAD)
-6. CIKM 2023: Learning Node Abnormality with Weak Supervision [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614950
+6. CIKM 2023: Learning Node Abnormality with Weak Supervision [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614950)
 ##### <span>Hybrid Methods</span>
 1. TKDE 2021: Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection [[Paper]](https://arxiv.org/pdf/2108.09896) [[Code]](https://github.com/KimMeen/SL-GAD)
 2. IJCAI 2022: Reconstruction Enhanced Multi-View Contrastive Learning for Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2108.09896) [[Code]](https://github.com/Zjer12/Sub)
