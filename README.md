@@ -102,7 +102,7 @@ Papers focus on node-level anomaly detection and work on single-view temporal gr
 Papers focus on graph-level anomaly detection and work on single-view static graph datasets.
 1. WSDM 2022: Deep Graph-level Anomaly Detection by Glocal Knowledge Distillation [[Paper]](https://arxiv.org/pdf/2112.10063) [[Code]](https://github.com/RongrongMa/GLocalKD)
 2. WSDM 2023: GOOD-D: On Unsupervised Graph Out-Of-Distribution Detection [[Paper]](https://arxiv.org/pdf/2211.04208.pdf) [[Code]](https://github.com/yixinliu233/G-OOD-D)
-3. Towards Graph-level Anomaly Detection via Deep Evolutionary Mapping [[Paper]](https://dl.acm.org/doi/10.1145/3580305.3599524)[[Code]](https://github.com/XiaoxiaoMa-MQ/GmapAD/)
+3. KDD 2023: Towards Graph-level Anomaly Detection via Deep Evolutionary Mapping [[Paper]](https://dl.acm.org/doi/10.1145/3580305.3599524)[[Code]](https://github.com/XiaoxiaoMa-MQ/GmapAD/)
 
 ---
 
