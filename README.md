@@ -99,7 +99,11 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 4. ACM MM 2023: Normality Learning-based Graph Anomaly Detection via Multi-Scale Contrastive Learning [[Paper]](https://arxiv.org/abs/2309.06034) [[Code]](https://github.com/FelixDJC/NLGAD)
 5. ICDM 2023: PREM: A Simple Yet Effective Approach for Node-Level Graph Anomaly Detection [[Paper]](https://arxiv.org/abs/2310.11676)[[Code]](https://github.com/CampanulaBells/PREM-GAD)
 6. CIKM 2023: Learning Node Abnormality with Weak Supervision [[Paper]](https://dl.acm.org/doi/10.1145/3583780.3614950)
-7. SDM 2023: Abnormal Event Detection via Hypergraph Contrastive Learning [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch80) [[Code]](https://github.com/BUPT-GAMMA/AEHCL)
+        
+        
+        
+        
+7. SDM 2023: Abnormal Event Detection via Hypergraph Contrastive Learning [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch80)[Code]](https://github.com/BUPT-GAMMA/AEHCL)
 ##### <span>Hybrid Methods</span>
 1. TKDE 2021: Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection [[Paper]](https://arxiv.org/pdf/2108.09896) [[Code]](https://github.com/KimMeen/SL-GAD)
 2. IJCAI 2022: Reconstruction Enhanced Multi-View Contrastive Learning for Anomaly Detection on Attributed Networks [[Paper]](https://arxiv.org/pdf/2108.09896) [[Code]](https://github.com/Zjer12/Sub)
@@ -112,7 +116,8 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 1. ICDM 2023: Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection [[Paper]](https://arxiv.org/pdf/2310.04171.pdf)[[Code]](https://github.com/bdi-lab/DRAG)
 ##### <span>Others</span>
 1. AAAI 2022: LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20629/20388) [[Code]](https://github.com/agoodge/LUNAR)
-2. ACM MM 2023: Collaborative Fraud Detection: How Collaboration Impacts Fraud Detection [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613780)[[Code]](https://github.com/CatScarf/COFD-MM)
+2. IJCAI 2023: Beyond Homophily: Robust Graph Anomaly Detection via Neural Sparsification [[Paper]](https://www.ijcai.org/proceedings/2023/0234.pdf)
+3. ACM MM 2023: Collaborative Fraud Detection: How Collaboration Impacts Fraud Detection [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613780)[[Code]](https://github.com/CatScarf/COFD-MM)
 ### <span id="jump22">Multi-View Static Graph</span>
 Papers focus on node-level anomaly detection and work on multi-view static graph datasets.
 ##### <span>Reconstruction</span>
