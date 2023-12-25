@@ -50,6 +50,7 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 3. TKDE 2021: Hybrid-order Anomaly Detection on Attributed Networks [[Paper]](https://ieeexplore.ieee.org/abstract/document/9560054/)[[Code]](https://github.com/zirui-yuan/HO-GAT)
 4. WSDM 2022: ComGA: Community-Aware Attributed Graph Anomaly Detection [[Paper]](https://dl.acm.org/doi/abs/10.1145/3488560.3498389)[[Code]](https://github.com/XuexiongLuoMQ/ComGA)
 5. ICDE 2023: Unsupervised Graph Outlier Detection: Problem, Revisit, New Insight, and Superior Method [[Paper]](https://ieeexplore.ieee.org/abstract/document/10184523) [[Code]](https://github.com/goldenNormal/vgod-github/tree/master)
+6. WSDM 2024: GAD-NR: Graph Anomaly Detection via Neighborhood Reconstruction [[Paper]](https://arxiv.org/abs/2306.01951) [[Code]](https://github.com/Graph-COM/GAD-NR/tree/master)
 ##### <span>Reinforcement Learning</span>
 1. WSDM 2019: Interactive Anomaly Detection on Attributed Networks [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3289600.3290964)[[Code]](https://github.com/kaize0409/GraphUCB_AnomalyDetection)
 2. CIKM 2021: Towards Anomaly-resistant Graph Neural Networks via Reinforcement Learning [[Paper]](https://www.public.asu.edu/~kding9/pdf/CIKM2021_RARE-GNN.pdf)
@@ -57,6 +58,10 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 ##### <span>Generative Adversarial Network</span>
 1. IJCAI 2020: Inductive Anomaly Detection on Attributed Networks [[Paper]](http://www.ece.virginia.edu/~jl6qk/pubs/IJCAI2020-1.pdf) 
 2. CIKM 2020: Generative Adversarial Attributed Network Anomaly Detection [[Paper]](https://static.aminer.cn/storage/pdf/acm/20/cikm/10.1145/3340531.3412070.pdf)
+        
+        
+        
+        
         
         
         
@@ -109,6 +114,10 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
         
         
         
+        
+        
+        
+        
 7. SDM 2023: Abnormal Event Detection via Hypergraph Contrastive Learning [[Paper]](https://epubs.siam.org/doi/pdf/10.1137/1.9781611977653.ch80)[[Code]](https://github.com/BUPT-GAMMA/AEHCL)
 ##### <span>Hybrid Methods</span>
 1. TKDE 2021: Generative and Contrastive Self-Supervised Learning for Graph Anomaly Detection [[Paper]](https://arxiv.org/pdf/2108.09896) [[Code]](https://github.com/KimMeen/SL-GAD)
@@ -124,6 +133,7 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 1. AAAI 2022: LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20629/20388) [[Code]](https://github.com/agoodge/LUNAR)
 2. IJCAI 2023: Beyond Homophily: Robust Graph Anomaly Detection via Neural Sparsification [[Paper]](https://www.ijcai.org/proceedings/2023/0234.pdf)
 3. ACM MM 2023: Collaborative Fraud Detection: How Collaboration Impacts Fraud Detection [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613780)[[Code]](https://github.com/CatScarf/COFD-MM)
+4. CIKM 2023: Class Label-aware Graph Anomaly Detection [[Paper]](https://arxiv.org/pdf/2308.11669) [[Code]](https://github.com/jhkim611/CLAD)
 ### <span id="jump22">Multi-View Static Graph</span>
 Papers focus on node-level anomaly detection and work on multi-view static graph datasets.
 ##### <span>Reconstruction</span>
