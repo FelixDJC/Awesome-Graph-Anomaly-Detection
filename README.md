@@ -134,11 +134,14 @@ LOF: Identifying Density-based Local Outliers [[Paper]](https://dl.acm.org/doi/p
 2. TII 2023: CaCo: Attributed Network Anomaly Detection via Canonical Correlation Analysis [[Paper]](https://ieeexplore.ieee.org/document/10098962)[[Code]](https://github.com/eighto6/CaCo)
 ##### <span>Attention</span>
 1. ICDM 2023: Dynamic Relation-Attentive Graph Neural Networks for Fraud Detection [[Paper]](https://arxiv.org/pdf/2310.04171.pdf)[[Code]](https://github.com/bdi-lab/DRAG)
+##### <span>Cross Domain</span>
+1. AAAI 2023: Cross-Domain Graph Anomaly Detection via Anomaly-aware Contrastive Alignment [[Paper]](https://arxiv.org/abs/2212.01096) [[Code]](https://github.com/qz-wang/act)
 ##### <span>Others</span>
 1. AAAI 2022: LUNAR: Unifying Local Outlier Detection Methods via Graph Neural Networks [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/20629/20388) [[Code]](https://github.com/agoodge/LUNAR)
 2. IJCAI 2023: Beyond Homophily: Robust Graph Anomaly Detection via Neural Sparsification [[Paper]](https://www.ijcai.org/proceedings/2023/0234.pdf)
 3. ACM MM 2023: Collaborative Fraud Detection: How Collaboration Impacts Fraud Detection [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3581783.3613780)[[Code]](https://github.com/CatScarf/COFD-MM)
 4. CIKM 2023: Class Label-aware Graph Anomaly Detection [[Paper]](https://arxiv.org/pdf/2308.11669) [[Code]](https://github.com/jhkim611/CLAD)
+5. TKDE 2023: Improving Generalizability of Graph Anomaly Detection Models via Data Augmentation [[Paper]](https://arxiv.org/pdf/2306.10534) [[Code]](https://github.com/betterzhou/AugAN)
 ### <span id="jump22">Multi-View Static Graph</span>
 Papers focus on node-level anomaly detection and work on multi-view static graph datasets.
 ##### <span>Reconstruction</span>
